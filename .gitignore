@@ -1,0 +1,42 @@
+# User-specific files
+*.xcuserdata
+*.xcuserstate
+
+# Build output
+build/
+DerivedData/
+
+# Code signing
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# Temporary files
+*.moved-aside
+*.swp
+*.swo
+*.lock
+
+# Xcode project files
+*.pbxproj
+project.xcworkspace/
+xcuserdata/
+
+
+# Swift Package Manager
+Packages/
+Package.resolved
+
+# App Xcode Logs
+*.xccheckout
+*.xcscmblueprint
+
+# iOS specific
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Archives
+*.xcarchive
+

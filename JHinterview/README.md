@@ -19,6 +19,8 @@ When successful, the list of candidates should display the following rows (based
 - Emmett, Mid-Level Developer
 - Greg, Senior Developer
 
+![Expected outcome](Goal.png)
+
 ## Files Provided:
 - `CandidatesClient.swift`: Contains the mock network client that simulates fetching candidates from a server.
 - `CandidateResponse.swift`: Defines the data structure for each candidate, including name, certification, and grade.

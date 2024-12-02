@@ -19,7 +19,6 @@ DerivedData/
 *.lock
 
 # Xcode project files
-*.pbxproj
 project.xcworkspace/
 xcuserdata/
 
